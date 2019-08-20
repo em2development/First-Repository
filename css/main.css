@@ -51,7 +51,6 @@ text-align: center;
 
 .section {
   background: white;
-  text-align: center;
 }
 
 .welcome {
@@ -68,10 +67,7 @@ text-align: center;
   background: #00c2ff;
   color: white;
   margin-top: 10%;
-  padding: 2em 2em 2em;
-}
-
-.middle-container p, h1 {
+  padding: 2em 2em;
   text-align: left;
 }
 
