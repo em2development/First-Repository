@@ -6,8 +6,8 @@ body {
 }
 
 p, blockquote {
-  font-size: .9em
-  line-height: 1.6em
+  font-size: .9em;
+  line-height: 1.6em;
 }
 
 ul {
@@ -18,7 +18,7 @@ ul {
 
 .container {
 text-align: center;
-padding: .8em 1.2em
+padding: .8em 1.2em;
 }
 
 .logo {
@@ -35,9 +35,23 @@ header {
 }
 
 .menu {
-  width: 25px
+  width: 25px;
   margin-top: 45%;
 }
 
+.welcome {
+  width: 70%;
+  margin: 2em auto 2em 25%;
+}
 
+.subhead {
+  font-size: 1.1em;
+}
+
+.blue-container {
+  width: 100%;
+  background: #00c2ff;
+  color: white;
+  margin-top: 15%
+  padding: 4em 0 2em;
 }
