@@ -17,7 +17,7 @@ section {
 
 p, blockquote {
   font-size: .9em;
-  line-height: 1.5em;
+  line-height: 1em;
 }
 
 ul {
@@ -55,7 +55,7 @@ text-align: center;
 
 .welcome {
   width: 100%;
-  margin: 2em auto 2em;
+  margin: 2em auto;
 }
 
 .subhead {
@@ -74,7 +74,7 @@ text-align: center;
 .bottom-container {
   width: 100%
   background: #f6f6f6;
-  padding: 4em 0 2em;
+  padding: 2em 0;
 }
 
 .footer {
