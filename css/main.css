@@ -29,6 +29,11 @@ ul {
 text-align: center;
 }
 
+.header {
+  background: #3d444a;
+  color: white;
+}
+
 .logo {
   width: 125px;
 }
