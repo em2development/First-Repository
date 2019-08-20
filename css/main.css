@@ -59,4 +59,5 @@ header {
 
 .blue-container p {
   transform: skewY(2deg);
+  text-align: left;
 }
