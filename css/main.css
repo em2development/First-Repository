@@ -16,7 +16,7 @@ section {
 }
 
 p, blockquote {
-  font-size: .9em;
+  font-size: 1em;
   line-height: 1em;
 }
 
@@ -33,7 +33,7 @@ text-align: center;
 .header {
   background: #3d444a;
   color: white;
-  padding: .5em;
+  padding: 1em;
 }
 
 .logo {
@@ -46,7 +46,6 @@ text-align: center;
 
 .menu {
   width: 25px;
-  margin-top: 45%;
 }
 
 .section {
@@ -55,11 +54,11 @@ text-align: center;
 
 .welcome {
   width: 100%;
-  margin: 2em auto;
+  margin: 2em 2em;
 }
 
 .subhead {
-  font-size: 1.1em;
+  font-size: 1em;
 }
 
 .middle-container {
