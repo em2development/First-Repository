@@ -1,5 +1,10 @@
 @import url("https://fonts.googleapis.com/css/family=Monserrat:400,600");
 
+header {
+  display: flex;
+  justify-content: space-between;
+}
+
 body {
   margin: 0;
   font-family: 'Monserrat', sans-serif;
@@ -7,7 +12,7 @@ body {
 
 p, blockquote {
   font-size: .9em;
-  line-height: 1.6em;
+  line-height: 1.5em;
 }
 
 ul {
@@ -21,16 +26,11 @@ text-align: center;
 }
 
 .logo {
-  width: 130px;
+  width: 125px;
 }
 
 .hide-mobile {
   display: none;
-}
-
-header {
-  display: flex;
-  justify-content: space-between;
 }
 
 .menu {
@@ -39,7 +39,7 @@ header {
 }
 
 .welcome {
-  width: 70%;
+  width: 75%;
   margin: 2em auto 2em 25%;
 }
 
@@ -47,7 +47,7 @@ header {
   font-size: 1.1em;
 }
 
-.blue-container {
+.middle-container {
   width: 100%;
   background: #00c2ff;
   color: white;
@@ -57,7 +57,13 @@ header {
   transform: skewY(-2deg);
 }
 
-.blue-container p {
+.middle-container p {
   transform: skewY(2deg);
   text-align: left;
+}
+
+.bottom-container {
+  background: #f6f6f6;
+  padding: 4em 0 2em;
+  margin-top: -3%;
 }
