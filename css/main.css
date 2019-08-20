@@ -33,3 +33,11 @@ header {
   display: flex;
   justify-content: space-between;
 }
+
+.menu {
+  width: 25px
+  margin-top: 45%;
+}
+
+
+}
