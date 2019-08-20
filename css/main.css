@@ -1,6 +1,17 @@
-@import url("https://fonts.googleapis.com/css/family=Monserrat:400,600")
+@import url("https://fonts.googleapis.com/css/family=Monserrat:400,600");
 
 body {
   margin: 0;
-  font-family: 'monserrat', sans-serif;
+  font-family: 'Monserrat', sans-serif;
+}
+
+p, blockquote {
+  font-size: .9em
+  line-height: 1.6em
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
 }
