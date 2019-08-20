@@ -76,6 +76,10 @@ text-align: center;
   padding: 2em 2em;
 }
 
+.bottom-container {
+  display: inline-flex;
+}
+
 .footer {
   width: 100%;
   background: #3d444a;
