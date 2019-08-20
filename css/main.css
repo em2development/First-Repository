@@ -73,7 +73,7 @@ text-align: center;
 .bottom-container {
   width: 100%
   background: #f6f6f6;
-  padding: 2em 0;
+  padding: 2em 2em;
   display: grid;
   justify-content: space-between;
 }
