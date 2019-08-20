@@ -52,14 +52,13 @@ text-align: center;
   background: white;
 }
 
-.welcome {
-  width: 100%;
-  margin: 2em 2em;
+.intro {
+  font-size: 1.5em
 }
 
-.subhead {
-  font-size: 1em;
-}
+.welcome-image {
+  width: 100%;
+  margin: 2em 2em;
 
 .middle-container {
   width: 100%;
