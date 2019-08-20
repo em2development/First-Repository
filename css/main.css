@@ -71,3 +71,11 @@ text-align: center;
   padding: 4em 0 2em;
   margin-top: -3%;
 }
+
+footer {
+  width: 100%;
+  background: #3d444a;
+  color: white;
+  padding: 3em 0;
+  transform: skewY (2deg)
+}
