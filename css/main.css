@@ -76,6 +76,11 @@ text-align: center;
   padding: 2em 0;
 }
 
+.bottom-container {
+  display: grid;
+  justify-content: space-between;
+}
+
 .footer {
   width: 100%;
   background: #3d444a;
