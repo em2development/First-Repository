@@ -62,10 +62,10 @@ text-align: center;
 }
 
 .middle-container {
-  width: 90%;
+  width: 100%;
   background: #00c2ff;
   color: white;
-  margin: 2em 2em;
+  margin: 2em 0em;
   padding: 2em 2em;
   text-align: left;
 }
