@@ -59,7 +59,7 @@ text-align: center;
   padding: 2em 2em 2em;
 }
 
-.middle-container p h1 {
+.middle-container p, h1 {
   text-align: left;
 }
 
