@@ -5,9 +5,19 @@ body {
   font-family: 'Monserrat', sans-serif;
 }
 
-p, blockquote {
-  font-size: .9em;
-  line-height: 1.6em;
+header {
+  display: flex;
+  justify-content: space-between;
+}
+
+section {
+  margin: 2em 0em;
+  text-align: center;
+}
+
+p {
+  font-size: 1em;
+  line-height: 1em;
 }
 
 ul {
@@ -20,43 +30,55 @@ ul {
 text-align: center;
 }
 
+.header {
+  background: #3d444a;
+  color: white;
+  padding: 1em;
+}
+
 .logo {
-  width: 130px;
+  width: 125px;
 }
 
 .hide-mobile {
   display: none;
 }
 
-header {
-  display: flex;
-  justify-content: space-between;
-}
-
 .menu {
   width: 25px;
-  margin-top: 45%;
 }
 
-.welcome {
-  width: 70%;
-  margin: 2em auto 2em 25%;
+.welcome-section {
+  background: white;
+}
+
+.welcome-image {
+  width: 100%;
+  margin: 2em 2em;
 }
 
 .subhead {
-  font-size: 1.1em;
+  font-size: 1.5em
 }
 
-.blue-container {
+.middle-container {
   width: 100%;
   background: #00c2ff;
   color: white;
-  margin-top: 15%;
-  padding: 4em 0 2em;
-  border-radius: 40px;
-  transform: skewY(-2deg);
+  margin: 2em 0em;
+  padding: 2em 2em;
+  text-align: left;
 }
 
-.blue-container ul {
-  transform: skewY(2deg);
+.bottom-container {
+  width: 100%
+  background: #f6f6f6;
+  padding: 2em 2em;
+}
+
+.footer {
+  width: 100%;
+  background: #3d444a;
+  color: white;
+  padding: 2em 0;
 }
