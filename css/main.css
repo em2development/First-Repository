@@ -57,12 +57,9 @@ text-align: center;
   color: white;
   margin-top: 10%;
   padding: 2em 2em 2em;
-  border-radius: 40px;
-  transform: skewY(-2deg);
 }
 
-.middle-container p {
-  transform: skewY(2deg);
+.middle-container p {;
   text-align: left;
 }
 
@@ -77,5 +74,4 @@ text-align: center;
   background: #3d444a;
   color: white;
   padding: 3em 0;
-  transform: skewY (2deg)
 }
