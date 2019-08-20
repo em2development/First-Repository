@@ -53,5 +53,7 @@ header {
   background: #00c2ff;
   color: white;
   margin-top: 15%;
-  padding: 4em 2em;
+  padding: 4em 0 2em;
+  border-radius: 40px;
+  transform: skewY(-2);
 }
