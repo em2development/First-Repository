@@ -52,7 +52,7 @@ header {
   background: #00c2ff;
   color: white;
   margin-top: 10%;
-  padding: 2em 0 2em;
+  padding: 2em 1em 2em;
   border-radius: 40px;
   transform: skewY(-2deg);
 }
