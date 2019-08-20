@@ -78,7 +78,8 @@ text-align: center;
 
 .bottom-container {
   display: inline-flex;
-  justify-content: space-between;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
 }
 
 .footer {
