@@ -11,7 +11,8 @@ header {
 }
 
 section {
-  margin: 2em 0em
+  margin: 2em 0em;
+  text-align: center;
 }
 
 p, blockquote {
