@@ -55,5 +55,9 @@ header {
   margin-top: 15%;
   padding: 4em 0 2em;
   border-radius: 40px;
-  transform: skewY(-2);
+  transform: skewY(-2deg);
+}
+
+.blue-container ul {
+  transform: skewY(2deg);
 }
