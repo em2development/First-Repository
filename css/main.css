@@ -105,7 +105,7 @@ hr {
 button {
   background-color: #4CAF50;
   color: white;
-  padding: 0;
+  padding: 1em;
   margin: 0;
   border: none;
   cursor: pointer;
