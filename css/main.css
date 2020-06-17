@@ -100,14 +100,14 @@ input[type=text]:focus, input[type=password]:focus {
 }
 
 hr {
-  margin-bottom: 1em;
+  margin-bottom: 0.5em;
 }
 
 /* Set a style for all buttons */
 button {
   background-color: #73A6AD;
   color: white;
-  padding: 1em;
+  padding: 0.5em;
   margin: 0.5em;
   border: none;
   cursor: pointer;
@@ -121,7 +121,7 @@ button:hover {
 
 /* Extra styles for the cancel button */
 .cancelbtn {
-  padding: 1em;
+  padding: 0.5em;
   background-color: #D8A7CA;
 }
 
@@ -133,7 +133,7 @@ button:hover {
 
 /* Add padding to container elements */
 .form-container {
-  padding: 1em;
+  padding: 0.5em;
 }
 
 /* Clear floats */
