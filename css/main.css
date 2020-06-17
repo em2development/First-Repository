@@ -51,8 +51,8 @@ text-align: center;
 .wrapper
 {
  color:white;
- margin-top:100px;
- font-size:40px;
+ margin-top:0;
+ font-size:1em;
 }
 .wrapper h1 p
 {
