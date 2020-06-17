@@ -76,7 +76,7 @@ text-align: center;
   width: 100%;
   background: #73A6AD;
   padding: 1em;
-  margin: 0;
+  margin: 1em;
   display: inline-flex;
   justify-content: space-evenly;
   flex-wrap: wrap;
