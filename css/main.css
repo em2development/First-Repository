@@ -80,7 +80,7 @@ text-align: center;
  width:119px;
  height:2em;
  line-height:2em;
- border:1px solid silver;
+ border-left:1px solid silver;
 }
 .navigation_menu li a
 {
