@@ -96,7 +96,7 @@ input[type=text]:focus, input[type=password]:focus {
 }
 
 hr {
-  border: 0 
+  border: 0
   solid #f1f1f1;
   margin-bottom: 0;
 }
@@ -126,6 +126,7 @@ button:hover {
 /* Float cancel and signup buttons and add an equal width */
 .cancelbtn, .signupbtn {
   font-size: 1em;
+  padding: 1em
   float: left;
   width: 50%;
 }
@@ -153,5 +154,5 @@ button:hover {
   width: 100%;
   background: #3d444a;
   color: white;
-  padding: 0;
+  padding: 1em;
 }
