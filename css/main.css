@@ -47,7 +47,6 @@ text-align: center;
 
 .menu {
   width: 25px;
-  text decoration: none;
 }
 
 .welcome-section {
@@ -100,6 +99,10 @@ text-align: center;
 input[type=text]:focus, input[type=password]:focus {
   background-color: #ddd;
   outline: none;
+}
+
+input:hover {
+  opacity:3;
 }
 
 hr {
