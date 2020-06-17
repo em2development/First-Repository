@@ -87,7 +87,7 @@ text-align: center;
 /* Full-width input fields */
   input[type=text], input[type=password] {
   width: 100%;
-  padding: 1em;
+  padding: 0.5em;
   margin: 0.5em;
   display: inline-block;
   border: none;
