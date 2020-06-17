@@ -88,7 +88,7 @@ text-align: center;
   input[type=text], input[type=password] {
   width: 100%;
   padding: 1em;
-  margin: 0.5em;
+  margin: 1em;
   display: inline-flex;
   justify-content: space-evenly;
   flex-wrap: wrap;
