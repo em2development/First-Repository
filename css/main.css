@@ -1,29 +1,29 @@
 @import url("https://fonts.googleapis.com/css/family=Monserrat:400,600");
 
-body {
-  margin: 0;
-  font-family: 'Monserrat', sans-serif;
-}
-
 header {
   display: flex;
   justify-content: space-between;
 }
 
+body {
+  margin: 0;
+  font-family: 'Monserrat', sans-serif;
+}
+
 section {
-  margin: ;
+  margin: 0;
   text-align: center;
 }
 
 p {
-  font-size: ;
-  line-height: ;
+  font-size: 0;
+  line-height: 0;
 }
 
 ul {
   list-style-type: none;
-  margin: ;
-  padding: ;
+  margin: 0;
+  padding: 0;
 }
 
 .container {
@@ -33,7 +33,7 @@ text-align: center;
 .header {
   background: #3d444a;
   color: white;
-  padding: ;
+  padding: 0;
 }
 
 .logo {
@@ -54,26 +54,26 @@ text-align: center;
 
 .welcome-image {
   width: 100%;
-  margin: ;
+  margin: 0;
 }
 
 .subhead {
-  font-size:
+  font-size: 0;
 }
 
 .middle-container {
   width: 100%;
   background: #00c2ff;
   color: white;
-  margin: ;
-  padding: ;
-  text-align: justify;
+  margin: 0;
+  padding: 0;
+  text-align: center;
 }
 
 .bottom-container {
   width: 100%
   background: #c3c3c3;
-  padding: ;
+  padding: 0;
   display: inline-flex;
   justify-content: space-evenly;
   flex-wrap: wrap;
@@ -84,29 +84,27 @@ text-align: center;
 /* Full-width input fields */
   input[type=text], input[type=password] {
   width: 100%;
-  padding: ;
-  margin: ;
-  display: inline-block;
-  border: none;
+  padding: 0;
+  margin: 0;
+  display: inline-flex;
   background: #f1f1f1;
 }
 
 input[type=text]:focus, input[type=password]:focus {
   background-color: #ddd;
-  outline: none;
 }
 
 hr {
-  border: 1px solid #f1f1f1;
-  margin-bottom: ;
+  border: 0 solid #f1f1f1;
+  margin-bottom: 0;
 }
 
 /* Set a style for all buttons */
 button {
   background-color: #4CAF50;
   color: white;
-  padding: ;
-  margin: ;
+  padding: 0;
+  margin: 0;
   border: none;
   cursor: pointer;
   width: 100%;
@@ -119,7 +117,7 @@ button:hover {
 
 /* Extra styles for the cancel button */
 .cancelbtn {
-  padding: ;
+  padding: 0;
   background-color: #f44336;
 }
 
@@ -131,7 +129,7 @@ button:hover {
 
 /* Add padding to container elements */
 .container {
-  padding: ;
+  padding: 0;
 }
 
 /* Clear floats */
@@ -152,5 +150,5 @@ button:hover {
   width: 100%;
   background: #3d444a;
   color: white;
-  padding: ;
+  padding: 0;
 }
