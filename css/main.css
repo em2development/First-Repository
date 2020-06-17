@@ -69,7 +69,7 @@ text-align: center;
  cursor:pointer;
  display:none;
 }
-.navigation_menu #menu_link
+.navigation_menu .menu_link
 {
  clear:both;
 }
