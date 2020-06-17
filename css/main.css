@@ -122,8 +122,8 @@ text-align: center;
  }
  .navigation_menu li a
  {
-  text-align:center;
-  padding-left:1em;
+  text-align:right;
+  padding-right:10px;
  }
 }
 
