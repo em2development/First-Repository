@@ -7,12 +7,12 @@ header {
 }
 
 body {
-  margin: 0;
+  margin: 0.5em;
   font-family: 'Monserrat', sans-serif;
 }
 
 section {
-  margin: 0;
+  margin: 0.5em;
   text-align: center;
 }
 
@@ -34,7 +34,7 @@ text-align: center;
 .header {
   background: #9b97b2;
   color: white;
-  padding: 0;
+  padding: 1em;
 }
 
 .logo {
@@ -56,7 +56,7 @@ text-align: center;
 
 .welcome-image {
   width: 100%;
-  margin: 0;
+  margin: 0.5em;
 }
 
 .subhead {
@@ -67,7 +67,7 @@ text-align: center;
   width: 100%;
   background: #9b97b2;
   color: white;
-  margin: 0;
+  margin: 0.5em;
   padding: 1em;
   text-align: left;
 }
@@ -76,7 +76,7 @@ text-align: center;
   width: 100%;
   background: #73A6AD;
   padding: 1em;
-  margin: 1em;
+  margin: 0.5em;
   display: inline-flex;
   justify-content: space-evenly;
   flex-wrap: wrap;
@@ -88,7 +88,7 @@ text-align: center;
   input[type=text], input[type=password] {
   width: 100%;
   padding: 1em;
-  margin: 1em;
+  margin: 0.5em;
   display: inline-flex;
   justify-content: space-evenly;
   flex-wrap: wrap;
@@ -113,12 +113,12 @@ button {
   margin: 0.5em;
   border: none;
   cursor: pointer;
-  width: 25%;
+  width: 100%;
   opacity: 0.9;
 }
 
 button:hover {
-  opacity:2;
+  opacity:3;
 }
 
 /* Extra styles for the cancel button */
@@ -135,7 +135,7 @@ button:hover {
 
 /* Add padding to container elements */
 .form-container {
-  padding: 0.5em;
+  padding: 1em;
 }
 
 /* Clear floats */
