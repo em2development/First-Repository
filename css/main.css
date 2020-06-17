@@ -16,8 +16,8 @@ section {
 }
 
 p {
-  font-size: 0;
-  line-height: 0;
+  font-size: 1em;
+  line-height: 1em;
 }
 
 ul {
