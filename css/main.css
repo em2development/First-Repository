@@ -67,7 +67,7 @@ text-align: center;
   color: white;
   margin: 2em 2em;
   padding: 2em 2em;
-  text-align: left;
+  text-align: justify;
 }
 
 .bottom-container {
@@ -152,5 +152,5 @@ button:hover {
   width: 100%;
   background: #3d444a;
   color: white;
-  padding: 2em 0;
+  padding: 2em;
 }
