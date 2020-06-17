@@ -34,7 +34,7 @@ text-align: center;
 .header {
   background: #9b97b2;
   color: white;
-  padding: 1em;
+  padding:0;
 }
 
 .logo {
