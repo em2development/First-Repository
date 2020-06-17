@@ -56,7 +56,7 @@ text-align: center;
 
 .welcome-image {
   width: 100%;
-  margin: 0.5em;
+  margin: 0;
 }
 
 .subhead {
@@ -67,7 +67,7 @@ text-align: center;
   width: 100%;
   background: #9b97b2;
   color: white;
-  margin: 0.5em;
+  margin: 0;
   padding: 1em;
   text-align: left;
 }
@@ -76,7 +76,7 @@ text-align: center;
   width: 100%;
   background: #73A6AD;
   padding: 1em;
-  margin: 0.5em;
+  margin: 0;
   display: inline-flex;
   justify-content: space-evenly;
   flex-wrap: wrap;
