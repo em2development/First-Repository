@@ -3,17 +3,16 @@
 header {
   display: flex;
   justify-content: space-between;
-  padding:0;
-  width: 100%;
+  padding:1em;
 }
 
 body {
-  margin: 0.5em;
+  margin: 0;
   font-family: 'Monserrat', sans-serif;
 }
 
 section {
-  margin: 0.5em;
+  margin: 0;
   text-align: center;
 }
 
