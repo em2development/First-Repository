@@ -90,7 +90,7 @@ text-align: center;
 }
 @media screen and (min-width: 700px)
 {
- #navigation_menu #menu_link
+ .navigation_menu .menu_link
  {
   display: block !important;
  }
