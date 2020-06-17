@@ -96,7 +96,7 @@ input[type=text]:focus, input[type=password]:focus {
 }
 
 hr {
-  border: none 
+  border: 0 
   solid #f1f1f1;
   margin-bottom: 0;
 }
