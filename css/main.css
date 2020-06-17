@@ -88,14 +88,14 @@ text-align: center;
  text-decoration:none;
  display:block;
 }
-@media screen and (min-width: 700px)
+@media screen and (min-width: 960px)
 {
  .navigation_menu .menu_link
  {
   display: block !important;
  }
 }
-@media only screen and (max-width: 900px)
+@media only screen and (max-width: 961px)
 {
  .navigation_menu
  {
