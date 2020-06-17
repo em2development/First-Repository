@@ -46,9 +46,9 @@ text-align: center;
  text-align:center;
  margin:0 auto;
  padding:0px;
- width:995px;
+ width:100%;
 }
-.wrapper h1
+.wrapper
 {
  color:white;
  margin-top:100px;
