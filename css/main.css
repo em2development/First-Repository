@@ -159,7 +159,7 @@ button{
   background-color: #73A6AD;
   color: white;
   padding:1em;
-  margin:0;
+  margin:5px;
   border: none;
   cursor: pointer;
   width: 100%;
@@ -169,7 +169,7 @@ button:hover{
   opacity:3;
 }
 .cancelbtn{
-  padding:.5em;
+  padding:1em;
   background-color: #D8A7CA;
 }
 .cancelbtn, .signupbtn{
@@ -177,7 +177,7 @@ button:hover{
   width: 50%;
 }
 .form-container{
-  padding:.5em;
+  padding:1em;
 }
 .clearfix::after{
   content: "";
