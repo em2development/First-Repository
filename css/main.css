@@ -75,7 +75,7 @@ a.active,a.hover {
     height: 100vh;
     background: #D8A7CA;
     top: 80px;
-    left: 0;
+    left: -100%;
     text-align: center;
   }
   nav ul li{
@@ -87,7 +87,6 @@ a.active,a.hover {
   a:hover,a:active{
     background: none
     color: #73A6AD;
-
   }
 }
 section {
