@@ -30,14 +30,14 @@ nav ul{
 }
 nav ul li{
   display: inline-block;
-  line-height:80px;
+  line-height:20px;
   margin:0;
 }
 nav ul li a{
   color: white;
   font-size: 20px;
   text-transform: uppercase;
-  padding:0;
+  padding:.5em;
   border-radius: 3px;
 }
 a:active,a:hover{
