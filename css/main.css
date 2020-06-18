@@ -1,26 +1,26 @@
 @import url("https://fonts.googleapis.com/css/family=Monserrat:400,600");
 
 *{
-  padding:0;
-  margin:0;
+  padding:1em;
+  margin:1em;
   text-decoration: none;
   list-style: none;
   box-sizing: border-box;
 }
 body{
-  margin:0;
+  margin:1em;
   font-family: 'Monserrat', sans-serif;
 }
 nav{
   background: #9b97b2;
-  height:0;
+  height:1em;
   width: 100%;
 }
 label.logo{
   color: white;
   font-size: 50px;
-  line-height:0;
-  padding: 0;
+  line-height:1em;
+  padding:1em;
   font-weight: bold;
   text-align: left;
 }
@@ -30,14 +30,14 @@ nav ul{
 }
 nav ul li{
   display: inline-block;
-  line-height:0;
-  margin:0;
+  line-height:1em;
+  margin:1em;
 }
 nav ul li a{
   color: white;
   font-size: 20px;
   text-transform: uppercase;
-  padding:0;
+  padding:1em;
   border-radius: 3px;
 }
 a:active,a:hover{
@@ -48,8 +48,8 @@ a:active,a:hover{
   font-size: 30px;
   color: white;
   float: right;
-  line-height:0;
-  margin-right:0;
+  line-height:1em;
+  margin-right:1em;
   cursor: pointer;
   display: none;
 }
@@ -59,7 +59,7 @@ a:active,a:hover{
 @media (max-width: 952px){
 label.logo{
     font-size: 30px;
-    padding-left: 0;
+    padding-left: 1em;
 }
 nav ul li a{
     font-size: 20px;
@@ -83,7 +83,7 @@ ul{
 nav ul li{
     display: block;
     margin: 50px;
-    line-height:0;
+    line-height:1em;
 
   }
 nav ul li a{
@@ -98,23 +98,23 @@ a:hover,a:active{
   }
 p{
   font-size: 20px;
-  line-height:0;
+  line-height:1em;
 }
 ul{
   list-style-type: none;
-  margin: 0;
-  padding:0;
+  margin: 1em;
+  padding:1em;
 }
 .container{
 text-align: center;
 }
 .welcome-section{
   background: white;
-  padding:0;
+  padding:1em;
 }
 .welcome-image{
   width: 100%;
-  margin: 0;
+  margin: 1em;
 }
 .subhead {
   font-size: 20px;
@@ -123,21 +123,21 @@ text-align: center;
   width: 100%;
   background: #9b97b2;
   color: white;
-  margin: 0;
-  padding:0;
+  margin: 1em;
+  padding:1em;
   text-align: left;
 }
 .bottom-container{
   width: 100%;
   background: #73A6AD;
-  padding:0;
-  margin: 0;
+  padding:1em;
+  margin: 1em;
 }
 
 input[type=text], input[type=password]{
   width: 100%;
-  padding:0;
-  margin:0;
+  padding:1em;
+  margin:1em;
   display: inline-flex;
   justify-content: space-evenly;
   flex-wrap: wrap;
@@ -149,13 +149,13 @@ input[type=text]:focus, input[type=password]:focus{
   outline: none;
 }
 hr {
-  margin-bottom:0;
+  margin-bottom:1em;
 }
 button{
   background-color: #73A6AD;
   color: white;
-  padding:0;
-  margin:0;
+  padding:1em;
+  margin:1em;
   border: none;
   cursor: pointer;
   width: 100%;
@@ -165,7 +165,7 @@ button:hover{
   opacity:3;
 }
 .cancelbtn{
-  padding:0;
+  padding:1em;
   background-color: #D8A7CA;
 }
 .cancelbtn, .signupbtn{
@@ -173,7 +173,7 @@ button:hover{
   width: 50%;
 }
 .form-container{
-  padding:0;
+  padding:1em;
 }
 .clearfix::after{
   content: "";
@@ -189,5 +189,5 @@ button:hover{
   width: 100%;
   background: #9b97b2;
   color: white;
-  padding:0;
+  padding:1em;
 }
