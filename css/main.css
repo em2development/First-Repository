@@ -40,7 +40,7 @@ nav ul li a {
 }
 a.active,a.hover {
   background: #73A6AD;
-  transition: 05s;
+  transition: 0.5s;
 
 }
 .checkbtn{
