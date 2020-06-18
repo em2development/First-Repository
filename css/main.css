@@ -75,7 +75,7 @@ a.active,a.hover {
     height: 100vh;
     background: #D8A7CA;
     top: 80px;
-    left: 0;
+    left: -100%;
     text-align: center;
     transition: all .5s;
 
