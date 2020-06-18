@@ -166,7 +166,7 @@ button{
   opacity: 0.9;
 }
 button:hover{
-  opacity:3;
+  opacity:5;
 }
 .cancelbtn{
   padding:1em;
