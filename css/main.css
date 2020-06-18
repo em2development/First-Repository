@@ -83,7 +83,7 @@ ul{
 nav ul li{
     display: block;
     margin: 50px;
-    line-height:50px;
+    line-height:25px;
   }
 nav ul li a{
     font-size: 20px;
