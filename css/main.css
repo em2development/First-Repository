@@ -170,6 +170,17 @@ text-align: center;
 .content > *{
   flex: 1 1 100%;
 }
+.content:hover{
+  color: white
+}
+.content:hover a{
+  border-color: white;
+  background: white;
+}
+.content-1:hover{
+  border-color: ;
+  background: ;
+}
 .content p{
   font-size: 30px;
   margin: 16px 0;
