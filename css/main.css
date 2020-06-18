@@ -42,7 +42,6 @@ nav ul li a {
 a.active,a.hover {
   background: #73A6AD;
   transition: .5s;
-
 }
 .checkbtn{
   font-size: 30px;
@@ -95,7 +94,6 @@ a.active,a.hover {
   }
   #check:checked ~ ul{
     left: 0;
-
   }
 }
 section {
