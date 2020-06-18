@@ -140,10 +140,9 @@ text-align: center;
   justify-content: space-evenly;
   flex-wrap: wrap;
 }
-* {box-sizing: border-box}
 
 /* Full-width input fields */
-  input[type=text], input[type=password] {
+  input[type=text], input[type=password]{
   width: 100%;
   padding: 1em;
   margin: 0.5em;
