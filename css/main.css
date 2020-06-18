@@ -181,7 +181,7 @@ text-align: center;
   border-color: #D8A7CA;
   background: #D8A7CA;
 }
-.content-1:hover{
+.content-1:hover a{
   color: #D8A7CA;
 }
 .content p{
