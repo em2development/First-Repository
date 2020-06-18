@@ -8,18 +8,18 @@
   box-sizing: border-box;
 }
 body{
-  margin: 0;
+  margin:0;
   font-family: 'Monserrat', sans-serif;
 }
 nav{
   background: #9b97b2;
-  height: 80px;
+  height:0;
   width: 100%;
 }
 label.logo{
   color: white;
   font-size: 50px;
-  line-height: 80px;
+  line-height:0;
   padding: 0;
   font-weight: bold;
   text-align: left;
@@ -30,14 +30,14 @@ nav ul{
 }
 nav ul li{
   display: inline-block;
-  line-height: 50px;
-  margin: 0 5px;
+  line-height:0;
+  margin:0;
 }
 nav ul li a{
   color: white;
   font-size: 20px;
   text-transform: uppercase;
-  padding: 7px 13px;
+  padding:0;
   border-radius: 3px;
 }
 a:active,a:hover{
@@ -48,8 +48,8 @@ a:active,a:hover{
   font-size: 30px;
   color: white;
   float: right;
-  line-height: 80px;
-  margin-right: 40px;
+  line-height:0;
+  margin-right:0;
   cursor: pointer;
   display: none;
 }
@@ -83,7 +83,7 @@ ul{
 nav ul li{
     display: block;
     margin: 50px;
-    line-height: 30px;
+    line-height:0;
 
   }
 nav ul li a{
@@ -98,19 +98,19 @@ a:hover,a:active{
   }
 p{
   font-size: 20px;
-  line-height: 1.5em;
+  line-height:0;
 }
 ul{
   list-style-type: none;
   margin: 0;
-  padding: 1em;
+  padding:0;
 }
 .container{
 text-align: center;
 }
 .welcome-section{
   background: white;
-  padding: 1em;
+  padding:0;
 }
 .welcome-image{
   width: 100%;
@@ -124,19 +124,20 @@ text-align: center;
   background: #9b97b2;
   color: white;
   margin: 0;
-  padding: 1em;
+  padding:0;
   text-align: left;
 }
 .bottom-container{
   width: 100%;
   background: #73A6AD;
-  padding: 1em;
+  padding:0;
   margin: 0;
 }
+
 input[type=text], input[type=password]{
   width: 100%;
-  padding: 1em;
-  margin: 0.5em;
+  padding:0;
+  margin:0;
   display: inline-flex;
   justify-content: space-evenly;
   flex-wrap: wrap;
@@ -148,23 +149,23 @@ input[type=text]:focus, input[type=password]:focus{
   outline: none;
 }
 hr {
-  margin-bottom: 0.5em;
+  margin-bottom:0;
 }
 button{
   background-color: #73A6AD;
   color: white;
-  padding: 1em;
-  margin: 0.5em;
+  padding:0;
+  margin:0;
   border: none;
   cursor: pointer;
   width: 100%;
-  opacity: 0.9;
+  opacity: 1;
 }
 button:hover{
   opacity:3;
 }
 .cancelbtn{
-  padding: 1em;
+  padding:0;
   background-color: #D8A7CA;
 }
 .cancelbtn, .signupbtn{
@@ -172,7 +173,7 @@ button:hover{
   width: 50%;
 }
 .form-container{
-  padding: 1em;
+  padding:0;
 }
 .clearfix::after{
   content: "";
@@ -188,5 +189,5 @@ button:hover{
   width: 100%;
   background: #9b97b2;
   color: white;
-  padding: 1em;
+  padding:0;
 }
