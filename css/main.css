@@ -131,6 +131,12 @@ text-align: center;
   padding:.5em;
   text-align: left;
 }
+.bottom-container{
+  width: 100%;
+  background: #73A6AD;
+  padding:.5em;
+  margin:0;
+}
 .cards{
   max-width: 1100px;
   margin: 0 auto;
@@ -157,12 +163,21 @@ text-align: center;
   border-radius: 4px;
   transition: all .3s ease;
 }
-.bottom-container{
-  width: 100%;
-  background: #73A6AD;
-  padding:.5em;
-  margin:0;
+.content .fab{
+  font-size: 70px;
+  margin: 16px 0;
 }
+.content > *{
+  flex: 1 1 100%;
+}
+.content p{
+  font-size: 30px;
+  margin: 16px 0;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
+
 
 input[type=text], input[type=password]{
   width: 100%;
