@@ -1,45 +1,45 @@
 @import url("https://fonts.googleapis.com/css/family=Monserrat:400,600");
 
-* {
+*{
   padding:0;
   margin:0;
   text-decoration: none;
   list-style: none;
   box-sizing: border-box;
 }
-body {
+body{
   margin: 0;
   font-family: 'Monserrat', sans-serif;
 }
-nav {
+nav{
   background: #9b97b2;
   height: 80px;
   width: 100%;
 }
-label.logo {
+label.logo{
   color: white;
   font-size: 35px;
   line-height: 80px;
   padding: 0 50px;
   font-weight: bold;
 }
-nav ul {
+nav ul{
   float: right;
   margin-right: 20px;
 }
-nav ul li {
+nav ul li{
   display: inline-block;
   line-height: 80px;
   margin: 0 5px;
 }
-nav ul li a {
+nav ul li a{
   color: white;
   font-size: 17px;
   text-transform: uppercase;
   padding: 7px 13px;
   border-radius: 3px;
 }
-a:active,a:hover {
+a:active,a:hover{
   background: #73A6AD;
   transition: .5s;
 }
@@ -96,7 +96,7 @@ a:active,a:hover {
     left: 0;
   }
 }
-section {
+section{
   margin: 0;
   text-align: center;
 }
@@ -109,21 +109,21 @@ ul{
   margin: 0;
   padding: 1em;
 }
-.container {
+.container{
 text-align: center;
 }
-.welcome-section {
+.welcome-section{
   background: white;
   padding: 1em;
 }
-.welcome-image {
+.welcome-image{
   width: 100%;
   margin: 0;
 }
 .subhead {
   font-size: 1em;
 }
-.middle-container {
+.middle-container{
   width: 100%;
   background: #9b97b2;
   color: white;
@@ -131,7 +131,7 @@ text-align: center;
   padding: 1em;
   text-align: left;
 }
-.bottom-container {
+.bottom-container{
   width: 100%;
   background: #73A6AD;
   padding: 1em;
@@ -140,7 +140,6 @@ text-align: center;
   justify-content: space-evenly;
   flex-wrap: wrap;
 }
-
 /* Full-width input fields */
   input[type=text], input[type=password]{
   width: 100%;
@@ -152,18 +151,15 @@ text-align: center;
   border: none;
   background: #f1f1f1;
 }
-
-input[type=text]:focus, input[type=password]:focus {
+input[type=text]:focus, input[type=password]:focus{
   background-color: #ddd;
   outline: none;
 }
-
 hr {
   margin-bottom: 0.5em;
 }
-
 /* Set a style for all buttons */
-button {
+button{
   background-color: #73A6AD;
   color: white;
   padding: 1em;
@@ -173,42 +169,35 @@ button {
   width: 100%;
   opacity: 0.9;
 }
-
-button:hover {
+button:hover{
   opacity:3;
 }
-
 /* Extra styles for the cancel button */
-.cancelbtn {
+.cancelbtn{
   padding: 1em;
   background-color: #D8A7CA;
 }
-
 /* Float cancel and signup buttons and add an equal width */
-.cancelbtn, .signupbtn {
+.cancelbtn, .signupbtn{
   float: left;
   width: 50%;
 }
-
 /* Add padding to container elements */
-.form-container {
+.form-container{
   padding: 1em;
 }
-
 /* Clear floats */
-.clearfix::after {
+.clearfix::after{
   content: "";
   clear: both;
   display: table;
 }
-
 /* Change styles for cancel button and signup button on extra small screens */
-@media screen and (max-width: 300px) {
-  .cancelbtn, .signupbtn {
+@media screen and (max-width: 300px){
+  .cancelbtn, .signupbtn{
     width: 100%;
   }
 }
-
 .footer {
   width: 100%;
   background: #9b97b2;
