@@ -177,11 +177,11 @@ text-align: center;
   border-color: white;
   background: white;
 }
-.content-1:hover{
+.content:hover{
   border-color: #D8A7CA;
   background: #D8A7CA;
 }
-.content-1:hover a{
+.content:hover a{
   color: #D8A7CA;
 }
 .content p{
