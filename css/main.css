@@ -158,12 +158,12 @@ hr {
 button{
   background-color: #73A6AD;
   color: white;
-  padding:.5em;
+  padding:1em;
   margin:0;
   border: none;
   cursor: pointer;
   width: 100%;
-  opacity: 1;
+  opacity: 0.9;
 }
 button:hover{
   opacity:3;
