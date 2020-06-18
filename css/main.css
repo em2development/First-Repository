@@ -26,7 +26,6 @@ label.logo {
 nav ul {
   float: right;
   margin-right: 20px;
-  color: black;
 }
 nav ul li {
   display: inline-block;
@@ -36,6 +35,11 @@ nav ul li {
 nav ul li a {
   color: white;
   font-size: 17px;
+}
+a.active,a.hover {
+  background: #73A6AD;
+  transition: 05s;
+  
 }
 section {
   margin: 0;
