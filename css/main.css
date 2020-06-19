@@ -64,7 +64,7 @@ nav ul li a{
 }
 a:active,a:hover{
   background: #73A6AD;
-  transition: .5s;
+  transition: .5s ease;
 }
 .checkbtn{
   font-size: 1.5em;
@@ -99,7 +99,7 @@ ul{
     top: 80px;
     left: -100%;
     text-align: center;
-    transition: all .5s;
+    transition: all .5s ease;
 
   }
 nav ul li{
@@ -184,7 +184,7 @@ text-align: center;
   padding:0.5em;
   border: 2px solid black;
   border-radius: 4px;
-  transition: all .3s ease;
+  transition: all .5s ease;
 }
 .content .fab{
   font-size: 2em;
@@ -222,7 +222,7 @@ text-align: center;
   border: 1px solid black;
   padding:0.5em;
   border-radius: 25px;
-  transition: .3s ease;
+  transition: .5s ease;
 }
 .content a:hover{
   border-radius: 4px;
