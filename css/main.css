@@ -124,9 +124,6 @@ a:hover,a:active{
 .container{
 text-align: center;
 }
-
-
-
 .welcome-section{
   background: white;
   padding:0.5em;
@@ -190,7 +187,7 @@ text-align: center;
   transition: all .3s ease;
 }
 .content .fab{
-  font-size: 1em;
+  font-size: 1.5em;
   margin: 0;
 }
 .content > *{
