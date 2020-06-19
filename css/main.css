@@ -38,6 +38,7 @@ nav{
   background: #9b97b2;
   height:80px;
   width: 100%;
+  scroll-behavior: smooth;
 }
 label.logo{
   color: white;
