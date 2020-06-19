@@ -219,7 +219,7 @@ text-align: center;
 .content a:hover{
   border-radius: 4px;
 }
-@media (max-width:900px){
+@media (max-width:858px){
   .services{
     display: flex;
     flex-direction: column;
@@ -283,6 +283,11 @@ button:hover{
   .cancelbtn, .signupbtn,{
     width: 100%;
   }
+}
+@media screen and (max-width: 952px){
+.cancelbtn, .signupbtn,{
+  width: 50%;
+  }  
 }
 
 
