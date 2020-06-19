@@ -42,6 +42,7 @@ label.logo{
   padding:0.5em;
   font-weight: bold;
   text-align: left;
+  letter-spacing: 1px;
 }
 nav ul{
   float: right;
