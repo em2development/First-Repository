@@ -281,7 +281,7 @@ button:hover{
   border-radius: 25px;
 }
 .form-container{
-  padding:0.5em;
+  padding:2em;
 }
 .clearfix::after{
   content: "";
