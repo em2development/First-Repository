@@ -7,19 +7,20 @@
   list-style: none;
   box-sizing: border-box;
 }
-body{
-  margin:0;
-  font-family: 'Monserrat', sans-serif;
-}
 section{
   margin:0;
   text-align: center;
+}
+body{
+  margin:0;
+  font-family: 'Monserrat', sans-serif;
 }
 p{
   font-size: 1em;
   line-height:1.5em;
 }
 h2{font-size: 1.5em;
+  letter-spacing: 1px;
 }
 ul{
   list-style-type: none;
