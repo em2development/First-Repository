@@ -178,13 +178,13 @@ text-align: center;
 .services{
   display: flex;
   align-items: center;
-  margin-left: 2em;
 }
 .content{
   display: flex;
   flex-wrap: wrap;
   flex: 1;
   margin: 1.5em;
+  margin-left: 2em;
   padding:1.5em;
   border: 2px solid black;
   border-radius: 4px;
