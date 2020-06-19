@@ -237,6 +237,7 @@ input[type=text], input[type=password]{
   flex-wrap: wrap;
   border: none;
   background: #f1f1f1;
+  border-radius: 25px;
 }
 input[type=text]:focus, input[type=password]:focus{
   background-color: #ddd;
