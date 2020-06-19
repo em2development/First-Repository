@@ -21,6 +21,7 @@ p{
 }
 h2{font-size: 1.5em;
   letter-spacing: 1px;
+  text-transform: uppercase;
 }
 ul{
   list-style-type: none;
