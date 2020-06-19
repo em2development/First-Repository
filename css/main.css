@@ -66,7 +66,7 @@ nav ul li a{
   border-radius: 25px;
 }
 a:active,a:hover{
-  background: #ffcdb2;
+  background: #ffe5d9;
   transition: .5s ease;
 }
 .checkbtn{
@@ -115,7 +115,7 @@ nav ul li a{
   }
 a:hover,a:active{
     background: none
-    color: #ffcdb2;
+    color: #ffe5d9;
   }
   #check:checked ~ ul{
     left: 0;
@@ -206,11 +206,11 @@ text-align: center;
   background: white;
 }
 .content:hover{
-  border-color: #ffcdb2;
-  background: #ffcdb2;
+  border-color: #ffe5d9;
+  background: #ffe5d9;
 }
 .content:hover a{
-  color: #ffcdb2;
+  color: #ffe5d9;
 }
 .content p{
   font-size: 1em;
