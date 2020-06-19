@@ -270,6 +270,7 @@ button:hover{
 }
 .form-container{
   padding:1em;
+  width: 50%;
 }
 .clearfix::after{
   content: "";
