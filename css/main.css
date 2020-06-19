@@ -282,7 +282,7 @@ button:hover{
     width: 100%;
   }
 }
-@media (min-width: 952px){
+@media (min-width: 858px){
   .form-container{
     width: 50%;
   }
