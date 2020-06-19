@@ -227,6 +227,9 @@ text-align: center;
 }
 
 
+.form-container{
+  width: 50%
+}
 
 input[type=text], input[type=password]{
   width: 50%;
@@ -277,7 +280,7 @@ button:hover{
   display: table;
 }
 @media screen and (max-width: 300px){
-  .cancelbtn, .signupbtn, .input-1{
+  .cancelbtn, .signupbtn,{
     width: 100%;
   }
 }
