@@ -227,9 +227,6 @@ text-align: center;
 }
 
 
-.form-container{
-  width: 50%
-}
 
 input[type=text], input[type=password]{
   width: 50%;
