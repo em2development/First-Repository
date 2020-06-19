@@ -177,7 +177,7 @@ text-align: center;
 }
 .services{
   display: flex;
-  align-items: center;
+  align-items: stretch;
 }
 .content{
   display: flex;
