@@ -65,7 +65,7 @@ a:active,a:hover{
   color: white;
   float: right;
   line-height:80px;
-  margin-right:.5em;
+  margin-right:1.5em;
   cursor: pointer;
   display: none;
 }
