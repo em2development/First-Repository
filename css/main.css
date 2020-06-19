@@ -11,6 +11,22 @@ body{
   margin:0;
   font-family: 'Monserrat', sans-serif;
 }
+section{
+  margin: 0;
+  text-align: center;
+}
+p{
+  font-size: 1em;
+  line-height:1.5em;
+}
+ul{
+  list-style-type: none;
+  margin:0;
+  padding:.5em;
+}
+
+
+
 nav{
   background: #9b97b2;
   height:80px;
@@ -96,22 +112,15 @@ a:hover,a:active{
     left: 0;
   }
 }
-section{
-  margin: 0;
-  text-align: center;
-}
-p{
-  font-size: 1em;
-  line-height:1.5em;
-}
-ul{
-  list-style-type: none;
-  margin:0;
-  padding:.5em;
-}
+
+
+
 .container{
 text-align: center;
 }
+
+
+
 .welcome-section{
   background: white;
   padding:.5em;
@@ -123,6 +132,9 @@ text-align: center;
 .subhead {
   font-size: 20px;
 }
+
+
+
 .middle-container{
   width: 100%;
   background: #9b97b2;
@@ -131,6 +143,9 @@ text-align: center;
   padding:.5em;
   text-align: left;
 }
+
+
+
 .bottom-container{
   width: 100%;
   background: #73A6AD;
@@ -210,6 +225,9 @@ text-align: center;
     flex-direction: column;
   }
 }
+
+
+
 input[type=text], input[type=password]{
   width: 100%;
   padding:.5em;
@@ -261,6 +279,9 @@ button:hover{
     width: 100%;
   }
 }
+
+
+
 .footer {
   width: 100%;
   background: #9b97b2;
