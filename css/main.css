@@ -178,6 +178,7 @@ text-align: center;
 .services{
   display: flex;
   align-items: center;
+  margin-left: 2em;
 }
 .content{
   display: flex;
