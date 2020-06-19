@@ -239,9 +239,7 @@ input[type=text], input[type=password]{
   background: #f1f1f1;
   border-radius: 25px;
 }
-.placeholder{
-  margin-left: 10px;
-}
+
 input[type=text]:focus, input[type=password]:focus{
   background-color: #ddd;
   outline: none;
@@ -284,9 +282,9 @@ button:hover{
     width: 100%;
   }
 }
-@media screen and (min-width: 952px){
-.cancelbtn, .signupbtn,{
-  width: 50%;
+@media (min-width: 952px){
+  .form-container{
+    width: 50%;
   }
 }
 
