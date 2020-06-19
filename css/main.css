@@ -151,7 +151,7 @@ text-align: center;
   text-indent: 25px;
 }
 .first-line{
-  text-align: left;
+  text-indent:0px;
 }
 
 
