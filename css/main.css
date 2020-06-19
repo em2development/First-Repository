@@ -256,7 +256,7 @@ input[type=text]:focus, input[type=password]:focus{
   outline: none;
 }
 hr {
-  margin-bottom:0;
+  margin-bottom:0.5em;
 }
 button{
   background-color: #73A6AD;
