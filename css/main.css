@@ -188,7 +188,7 @@ text-align: center;
 }
 .content .fab{
   font-size: 2em;
-  margin: 0;
+  margin-bottom: 0.5em;
 }
 .content > *{
   flex: 1 1 100%;
