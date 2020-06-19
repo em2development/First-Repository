@@ -284,10 +284,10 @@ button:hover{
     width: 100%;
   }
 }
-@media screen and (max-width: 952px){
+@media screen and (min-width: 952px){
 .cancelbtn, .signupbtn,{
   width: 50%;
-  }  
+  }
 }
 
 
