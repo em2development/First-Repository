@@ -13,9 +13,11 @@ section{
 }
 body{
   margin:0;
-  font-family: 'Monserrat', sans-serif;
+  font-family: sans-serif;
 }
-h2{font-size: 1.5em;
+h2{
+  font-size: 2em;
+  font-family: monospace;
   letter-spacing: 1px;
   text-transform: uppercase;
   text-indent: 0px;
@@ -67,6 +69,7 @@ nav ul li a{
 }
 a:active,a:hover{
   background: #4ecca3;
+  color: #232931
   transition: .5s ease;
 }
 .checkbtn{
