@@ -250,7 +250,7 @@ input[type=text], input[type=password]{
   justify-content: space-evenly;
   flex-wrap: wrap;
   border: none;
-  background: #f1f1f1;
+  background: #cccccc;
   border-radius: 25px;
 }
 
