@@ -35,13 +35,13 @@ ul{
 
 
 nav{
-  background: #6d6875;
+  background: #232931;
   height:80px;
   width: 100%;
   scroll-behavior: smooth;
 }
 label.logo{
-  color: white;
+  color: #cccccc;
   font-size: 1.5em;
   line-height:80px;
   padding:0;
@@ -59,19 +59,19 @@ nav ul li{
   margin-left:0.5em;
 }
 nav ul li a{
-  color: white;
+  color: #cccccc;
   font-size: 1em;
   text-transform: uppercase;
   padding:1em;
   border-radius: 25px;
 }
 a:active,a:hover{
-  background: #81b29a;
+  background: #4ecca3;
   transition: .5s ease;
 }
 .checkbtn{
   font-size: 1.5em;
-  color: white;
+  color: #cccccc;
   float: right;
   line-height:80px;
   margin-right:1.5em;
@@ -115,7 +115,7 @@ nav ul li a{
   }
 a:hover,a:active{
     background: none
-    color: #81b29a;
+    color: #4ecca3;
   }
   #check:checked ~ ul{
     left: 0;
@@ -145,8 +145,8 @@ text-align: center;
 
 .middle-container{
   width: 100%;
-  background: #6d6875;
-  color: white;
+  background: #232931;
+  color: #cccccc;
   margin:0;
   padding:2em;
   text-align: left;
@@ -202,15 +202,15 @@ text-align: center;
   color: white
 }
 .content:hover a{
-  border-color: white;
+  border-color: #cccccc;
   background: white;
 }
 .content:hover{
-  border-color: #81b29a;
-  background: #81b29a;
+  border-color: #4ecca3;
+  background: #4ecca3;
 }
 .content:hover a{
-  color: #81b29a;
+  color: #4ecca3;
 }
 .content p{
   font-size: 1em;
@@ -221,7 +221,7 @@ text-align: center;
 .content a{
   margin:0.5em;
   background: black;
-  color: white;
+  color: #cccccc;
   text-decoration: none;
   text-transform: uppercase;
   border: 1px solid black;
@@ -266,7 +266,7 @@ hr {
 }
 button{
   background-color: #6d6875;
-  color: white;
+  color: #cccccc;
   padding:0.5em;
   margin:0.5em;
   border: none;
@@ -309,7 +309,7 @@ button:hover{
 
 .footer {
   width: 100%;
-  background: #6d6875;
-  color: white;
+  background: #232931;
+  color: #cccccc;
   padding:2em;
 }
