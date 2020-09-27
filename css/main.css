@@ -284,6 +284,7 @@ button:hover{
 .cancelbtn{
   padding:0.5em;
   background-color: #232931;
+  color: #cccccc;
 }
 .cancelbtn, .signupbtn{
   float: left;
