@@ -98,7 +98,7 @@ ul{
     position: fixed;
     width: 100%;
     height: 100vh;
-    background: #b5838d;
+    background: #232931;
     top: 80px;
     left: -100%;
     text-align: center;
@@ -160,7 +160,7 @@ text-align: center;
 
 .bottom-container{
   width: 100%;
-  background: #b5838d;
+  background: #232931;
   padding:0.5em;
   margin:0;
 }
@@ -199,11 +199,11 @@ text-align: center;
   flex: 1 1 100%;
 }
 .content:hover{
-  color: #cccccc
+  color: #232931
 }
 .content:hover a{
-  border-color: #cccccc;
-  background: #cccccc;
+  border-color: #232931;
+  background: #232931;
 }
 .content:hover{
   border-color: #4ecca3;
@@ -265,8 +265,8 @@ hr {
   margin-bottom:0.5em;
 }
 button{
-  background-color: #6d6875;
-  color: #cccccc;
+  background-color: #4ecca3;
+  color: black;
   padding:0.5em;
   margin:0.5em;
   border: none;
@@ -279,7 +279,7 @@ button:hover{
 }
 .cancelbtn{
   padding:0.5em;
-  background-color: #b5838d;
+  background-color: #232931;
 }
 .cancelbtn, .signupbtn{
   float: left;
