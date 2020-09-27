@@ -41,7 +41,7 @@ nav{
   scroll-behavior: smooth;
 }
 label.logo{
-  color: #cccccc;
+  color: #4ecca3;
   font-size: 1.5em;
   line-height:80px;
   padding:0;
@@ -128,7 +128,7 @@ a:hover,a:active{
 text-align: center;
 }
 .welcome-section{
-  background: white;
+  background: #cccccc;
   padding:2em;
 }
 .welcome-image{
@@ -199,11 +199,11 @@ text-align: center;
   flex: 1 1 100%;
 }
 .content:hover{
-  color: white
+  color: #cccccc
 }
 .content:hover a{
   border-color: #cccccc;
-  background: white;
+  background: #cccccc;
 }
 .content:hover{
   border-color: #4ecca3;
