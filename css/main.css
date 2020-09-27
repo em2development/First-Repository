@@ -44,7 +44,8 @@ nav{
 }
 label.logo{
   color: #4ecca3;
-  font-size: 1em;
+  font-family: monospace;
+  font-size: 2em;
   line-height:80px;
   padding:0;
   font-weight: bold;
@@ -69,12 +70,12 @@ nav ul li a{
 }
 a:active,a:hover{
   background: #4ecca3;
-  color: #232931
+  color: #232931;
   transition: .5s ease;
 }
 .checkbtn{
   font-size: 1.5em;
-  color: #cccccc;
+  color: #4ecca3;
   float: right;
   line-height:80px;
   margin-right:1.5em;
@@ -86,7 +87,7 @@ a:active,a:hover{
 }
 @media (max-width: 952px){
 label.logo{
-    font-size: 2em;
+    font-size: 3em;
     padding-left:0;
 }
 nav ul li a{
