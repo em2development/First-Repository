@@ -53,6 +53,7 @@ label.logo{
 nav ul{
   float: right;
   margin-right: 1.5em;
+  z-index: 1;
 }
 nav ul li{
   display: inline-block;
@@ -127,15 +128,24 @@ a:hover,a:active{
 
 
 .container{
-text-align: center;
+  position: relative;
+  text-align: center;
 }
 .welcome-section{
-  background: #cccccc;
-  padding:2em;
+  background: #232931;
+  padding:0,0;
+  margin-bottom: 0,0;
 }
 .welcome-image{
   width: 100%;
-  margin:0;
+}
+.welcome-text{
+  text-align: left;
+  color: #cccccc;
+  position: absolute;
+  top: 45%;
+  left: 45%;
+  transform: translate(-50%, -50%);
 }
 .subhead {
   font-size: 1em;
