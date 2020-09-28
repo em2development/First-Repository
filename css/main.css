@@ -18,8 +18,6 @@ body{
 h2{
   font-size: 2em;
   font-family: monospace;
-  letter-spacing: 1px;
-  text-transform: uppercase;
   text-indent: 0px;
   margin-top: 0.5em;
   margin-bottom: 0.5em;
@@ -102,7 +100,7 @@ ul{
     position: fixed;
     width: 100%;
     height: 100vh;
-    background: #232931;
+    background: #393e46;
     top: 80px;
     left: -100%;
     text-align: center;
@@ -203,7 +201,7 @@ text-align: center;
   flex: 1 1 100%;
 }
 .content:hover{
-  color: #232931
+  color: #393e46;
 }
 .content:hover a{
   border-color: #232931;
@@ -314,6 +312,7 @@ button:hover{
 
 .footer {
   width: 100%;
+  font-family: monospace;
   background: #232931;
   color: #cccccc;
   padding:2em;
