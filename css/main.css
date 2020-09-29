@@ -178,17 +178,17 @@ a:hover,a:active{
   align-items: center;
 }
 .cards{
-  max-width: 1300px;
-  margin: 3em;
+  max-width: 1100px;
+  margin: 0 auto;
   text-align: center;
-  padding:0em;
+  padding: 30px;
 }
 .cards h2{
-  font-size: 1.5em;
+  font-size: 40px;
+  margin: 0 0 30px 0;
   text-transform: uppercase;
   letter-spacing: 1px;
-  margin-bottom: 0.5em;
-  margin-top: 0.5em;
+
 }
 .services{
   display: flex;
@@ -198,8 +198,8 @@ a:hover,a:active{
   display: flex;
   flex-wrap: wrap;
   flex: 1;
-  margin: 3em;
-  padding:1.5em;
+  margin: 20px;
+  padding: 20px;
   border: 2px solid black;
   border-radius: 4px;
   transition: all .5s ease;
@@ -216,7 +216,7 @@ a:hover,a:active{
   flex: 1 1 100%;
 }
 .content:hover{
-  color: #393e46;
+  color: #232931;
 }
 .content:hover a{
   border-color: #232931;
@@ -229,27 +229,33 @@ a:hover,a:active{
 .content:hover a{
   color: #4ecca3;
 }
+.content h2{
+  font-size: 30px;
+  margin: 16px 0;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
 .content p{
-  font-size: 1em;
-  margin:0.5em;
+  font-size: 30px;
+  margin: 16px 0;
   letter-spacing: 1px;
   text-transform: uppercase;
 }
 .content a{
-  margin:0.5em;
+  margin: 22px 0;
   background: black;
   color: #cccccc;
   text-decoration: none;
   text-transform: uppercase;
   border: 1px solid black;
-  padding:0.5em;
+  padding: 15px 0;
   border-radius: 25px;
   transition: .5s ease;
 }
 .content a:hover{
-  border-radius: 4px;
+  border-radius: 5px;
 }
-@media (max-width:1080px){
+@media (max-width:900px){
   .services{
     display: flex;
     flex-direction: column;
